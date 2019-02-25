@@ -1,0 +1,73 @@
+.jumbotron {
+    text-align: center;
+    background-image: url(../image/background1.jpg);
+    background-size: 100%;
+}
+
+h6 {
+    text-align: center;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+.p1 {
+    color: white;
+}
+
+
+
+.work {
+    /* border: solid 2px rgb(133, 178, 238); */
+    text-align: center;
+}
+
+.container {
+    background-image: url(../image/professional-background-images-8.jpg);
+    background-size: 100%;
+} 
+
+
+.fab {
+    width: 90px;
+   
+}
+
+.p2 {
+    font-size: 25px;
+    border: solid 2px rgb(255, 245, 245);
+    color: rgb(207, 204, 204);
+}
+
+label {
+    color: white;
+}
+
+input {
+    background-color: rgb(108, 163, 235);
+    color: white;
+}
+
+.footer {
+
+    background-color: #666666;
+
+    color: white;
+
+    text-align: center;
+
+    bottom: 0;
+
+    height: 60px;
+
+    border-top: 8px solid #4a77aa;
+
+}
